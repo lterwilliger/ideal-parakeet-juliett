@@ -1,0 +1,16 @@
+@import url("https://fonts.googleapis.com/css2?family=Quicksand:wght@500&display=swap");
+
+body{
+    /* background-color: lightsteelblue; */
+    background-size: cover;
+    background-image: url('https://images.unsplash.com/photo-1644863792318-17e435b1d4d7?crop=entropy&cs=srgb&fm=jpg&ixid=MnwxNDU4OXwwfDF8cmFuZG9tfHx8fHx8fHx8MTY0NTExNzIxNw&ixlib=rb-1.2.1&q=85');
+}
+.container-lg{
+  background-color: lightblue;
+}
+.tab4 {
+    tab-size: 40;
+}
+#boxOutput{
+  background-color: lightsteelblue;
+}
